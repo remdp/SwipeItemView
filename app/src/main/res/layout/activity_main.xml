@@ -16,6 +16,7 @@
         android:text="Hello World!" />
 
     <View.SwipeItemView
+        android:id="@+id/customView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"></View.SwipeItemView>
 </RelativeLayout>
